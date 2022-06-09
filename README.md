@@ -11,8 +11,10 @@ in code.
 - run `npm installl`
 
 ## Usage
-
-tbd
+Run the following command to ESLint test all javascript files in the repository:
+```
+npm test
+```
 
 ## License
 
